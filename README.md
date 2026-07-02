@@ -95,3 +95,31 @@ This project demonstrates how multiple monitoring tools can be used together to 
 Akinwunmi Ifedayo
 
 Aspiring SOC Analyst | Computer Engineer | Cybersecurity Enthusiast
+## Investigation Screenshots
+
+### Sysmon Event Viewer
+![Sysmon Event](screenshots/photo_5922629489257025147_y.jpg)
+
+### Wireshark Packet Capture
+![Wireshark Capture](screenshots/photo_5922629489257025148_y.jpg)
+
+### Process Monitor Activity
+![Process Monitor](screenshots/photo_5922629489257025149_y.jpg)
+
+### Additional Investigation Evidence
+![Evidence 1](screenshots/photo_5922629489257025150_y.jpg)
+
+![Evidence 2](screenshots/photo_5922629489257025151_y.jpg)
+
+![Evidence 3](screenshots/photo_5922629489257025152_y.jpg)
+
+![Evidence 4](screenshots/photo_5922629489257025153_y.jpg)
+
+![Evidence 5](screenshots/photo_5922629489257025154_y.jpg)
+
+![Evidence 6](screenshots/photo_5922629489257025155_y.jpg)
+
+![Evidence 7](screenshots/photo_5922629489257025156_y.jpg)
+
+![Evidence 8](screenshots/photo_5922629489257025157_y.jpg)
+
